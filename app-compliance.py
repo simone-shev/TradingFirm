@@ -251,7 +251,7 @@ def show_options():
     print('What would you like to do? ')
     print('  (f) - get a funds asset composition')
     print('  (v) - get the total asset value')
-    print('  (c) - get the value held in a clearinghouse')
+    print('  (c) - get the trades through a clearinghouse')
     print('  (q) - quit')
     print()
     ans = input('Enter an option: ').lower()
