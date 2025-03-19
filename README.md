@@ -34,9 +34,9 @@ The two stars here indicate that it can run any day and any month.
 
 ## Starting the database
 In your commandline, launch mysql with the following command to ensure you can load in data properly:
-mysql --local-infile=1 -u your-user -p
+`mysql --local-infile=1 -u your-user -p`
 
-Then type in "source start.sql;
+Then type in `source start.sql;`
 
 This will create the database, set it up and load in data.
 
