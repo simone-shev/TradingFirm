@@ -1,0 +1,6 @@
+asset_id,asset_name,symbol,type
+101,Apple Inc.,AAPL,Stock
+102,NVIDIA Corporation,NVDA,Stock
+103,Meta Platforms Inc.,META,Stock
+104,Microsoft Corporation,MSFT,Stock
+105,Alphabet Inc.,GOOGL,Stock

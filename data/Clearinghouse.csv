@@ -1,0 +1,5 @@
+clearinghouse_id,clearinghouse_name,exchange
+301,NYSE Clearing,NYSE
+302,Nasdaq Clearing,NASDAQ
+303,CME Clearing,CME
+304,LSE Clearing,LSE
