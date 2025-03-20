@@ -6,7 +6,7 @@ import mysql.connector.errorcode as errorcode
 import json
 import time
 
-API_KEY = "2wiM86LkggkXdJozLF2lix7QkAkIOUCC"
+API_KEY = "YOUR API KEY"
 client = RESTClient(api_key=API_KEY)
 # Assume this is being run in pacific time, and we give time for ater 
 # hours trading
