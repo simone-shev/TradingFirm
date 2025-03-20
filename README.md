@@ -41,10 +41,10 @@ Then type in `source start.sql;`
 This will create the database, set it up and load in data.
 
 ## Running the ptyhon apps
-To run the trader app, run "python3 app-trader.py"
+To run the trader app, run `python3 app-trader.py`
 This app is meant to mimic how a trader would interact with a trading database, they can see how a fund is perfomring, make or cancel trades, and view market data.
 You will be prompted to either create a new username and password or you can login
 
-To run the compliance app, run "python3 app-compliance.py"
+To run the compliance app, run `python3 app-compliance.py`
 This app is meant to mimic how someone in compliance would interact with a trading database, they can also see a fund's performace, but cannot edit the tables at all (aside from via the functions and procedures needed for logging in). They also have specialized options such as being able to see how much of an asset is held across the firm and how many trades go through a certain clearinhouse. 
 You will be prompted to either create a new username and password or you can login
